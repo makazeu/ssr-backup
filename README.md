@@ -14,3 +14,4 @@
 * ShadowsocksR-android-3.4.0.6.6-src.zip - Android客户端源码，3.4.0.6.6版本
 * ShadowsocksR-csharp-4.7.0-src.zip - C#客户端源码，4.7.0版本
 * ShadowsocksX-NG-src.zip - macOS客户端源码
+>>>>>>> master 
